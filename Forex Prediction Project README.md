@@ -6,7 +6,6 @@ The Forex Prediction Project aims to predict currency exchange rates using histo
 
 ## Installation
 
-- Clone the repository: `https://github.com/aameerhamza1801/forex_predictor_pipeline.git`
 - Install required packages: `pip install -r requirements.txt`
 
 ## Usage
